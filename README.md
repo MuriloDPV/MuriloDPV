@@ -26,7 +26,10 @@ Alguém escreve "o cliente pagou a fatura" e o agente entende o pedido, confere 
 
 **FOX Studio** — plataforma para coordenar agentes de IA trabalhando em partes diferentes de um projeto, com as decisões importantes continuando minhas. Em construção.
 
-**Iara** — projeto do Desafio dos Dados 2026, usando IA para reduzir barreira de letramento digital. Tecnologia também serve pra isso.
+**[Iara](https://github.com/MuriloDPV/Iara)** — assistente que estima o nível de letramento
+digital de quem está falando e adapta o atendimento na hora, sem nunca perguntar isso
+diretamente e sem etiquetar ninguém. Projeto do Squad Aura no Desafio dos Dados 2026,
+no ar em [projetoiara.tech](https://projetoiara.tech). Tecnologia também serve pra isso.
 
 Python, JavaScript, n8n, APIs REST, bancos de dados, Docker, GitHub Actions, modelos locais e APIs de IA.
 
