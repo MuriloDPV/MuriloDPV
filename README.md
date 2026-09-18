@@ -1,8 +1,8 @@
 ## Olá, eu sou Murilo
 
-Estudante de TI e desenvolvedor, no interior do Rio Grande do Sul. Trabalho com automação, IA aplicada e a parte que fica escondida atrás dos aplicativos: servidores, redes, integração entre sistemas.
+Estudante de TI e desenvolvedor, no interior do Rio Grande do Sul. Trabalho com automação, IA aplicada, servidores, redes, integração entre sistemas.
 
-Cuido das ferramentas internas da Info Missões, um provedor de fibra da região. Integrações com a API do ERP, bots de atendimento interno no Telegram, e um painel que aponta queda de rede e risco de cancelamento antes do suporte perceber.
+Cuido das ferramentas internas da Info Missões, um provedor de fibra da região. Integrações com a API do ERP, bots de atendimento interno, e um painel que aponta queda de rede e risco de cancelamento antes do suporte perceber.
 
 ## FOX
 
@@ -28,8 +28,6 @@ Python, JavaScript, n8n, Docker, GitHub Actions, PostgreSQL, APIs REST, modelos 
 
 ## Como eu penso
 
-Antes de construir qualquer coisa, pergunto se resolve um problema, quanto custa, qual o risco, se dá para manter, e o que acontece se der errado.
-
 Tenho tendência a pensar grande, e estou aprendendo que pensar grande não é construir tudo de uma vez. Arquitetura boa começa simples e cresce quando aparece motivo.
 
 Nem tudo aqui é produto pronto. Tem experimento, prova de conceito e coisa que morreu no caminho.
@@ -45,5 +43,3 @@ Rock clássico e pop. "Iris", do Goo Goo Dolls, é das minhas favoritas.
 murilovieirax@gmail.com · WhatsApp +55 55 99604-9928
 
 Português nativo, inglês fluente.
-
-Meus valores e os da FOX vêm da fé cristã. É de onde eu parto, não algo que eu imponha a quem trabalha ou negocia comigo.
