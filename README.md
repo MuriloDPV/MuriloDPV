@@ -1,4 +1,4 @@
-## Olá, eu sou Murilo
+  ## Olá, eu sou Murilo
 
 Estudante de TI e desenvolvedor, no interior do Rio Grande do Sul. Trabalho com automação, IA aplicada, servidores, redes, integração entre sistemas.
 
@@ -20,7 +20,7 @@ Nenhum agente meu recebe acesso solto ao banco. Quanto maior o impacto da ação
 
 [IARA](https://github.com/MuriloDPV/IARA-Desafio-dos-Dados) — assistente que estima o nível de letramento digital de quem está falando e adapta o atendimento na hora, sem perguntar isso e sem etiquetar ninguém. Projeto do Squad Aura no Desafio dos Dados 2026.
 
-FOX Studio — plataforma para coordenar agentes de IA trabalhando em partes diferentes de um projeto. Em construção.
+FOX Studio — plataforma para coordenar agentes de IA trabalhando em partes diferentes de um projeto. Em construção. [Conheça a vitrine →](https://github.com/MuriloDPV/fox-studio-vitrine).
 
 ## Ferramentas
 
