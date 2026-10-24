@@ -4,7 +4,7 @@ Estudante de TI e desenvolvedor, no interior do Rio Grande do Sul. Trabalho com 
 
 Cuido das ferramentas internas da Info Missões, um provedor de fibra da região. Integrações com a API do ERP, bots de atendimento interno, e um painel que aponta queda de rede e risco de cancelamento antes do suporte perceber.
 
-## FOX
+## Athomon
 
 Minha empresa, de automação, IA e software para empresas. Ela existe sobre uma ideia simples: usar tecnologia para fazer o bem. Tirar trabalho repetitivo das pessoas, reduzir erro, e conforme crescer, usar parte disso em projetos de impacto, como computador em escola que precisa.
 
