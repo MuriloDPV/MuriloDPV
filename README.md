@@ -2,6 +2,8 @@
 
 Estudante de TI e desenvolvedor no interior do Rio Grande do Sul. Trabalho com automação, IA aplicada, servidores, redes e integração entre sistemas.
 
+Meu currículo completo, com projetos, experiência e contato: **[murilo.athomon.com](https://murilo.athomon.com)**
+
 Cuido das ferramentas internas da Info Missões, um provedor de fibra da região: integrações com a API do ERP, bots de atendimento interno e um painel que aponta queda de rede e risco de cancelamento antes do suporte perceber. Os bots só executam ações pré-definidas, e as de maior impacto (como liberar um cliente) pedem confirmação e ficam registradas.
 
 ## Athomon
@@ -27,5 +29,7 @@ Gosto de jogo com história boa: The Last of Us, Red Dead Redemption, Life is St
 ## Contato
 
 murilovieirax@gmail.com
+
+Currículo: [murilo.athomon.com](https://murilo.athomon.com) · LinkedIn: [Murilo dos Passos Vieira](https://www.linkedin.com/in/murilo-dos-passos-vieira-381b84352/)
 
 Português nativo, inglês fluente.
