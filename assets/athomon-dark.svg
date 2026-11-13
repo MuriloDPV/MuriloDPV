@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="ATHOMON">
+<style>
+  .move { transform-origin: 355.5px 160.0px; transform: translate(284.5px, 0) scale(1.9); animation: move 1s cubic-bezier(.65,0,.35,1) 1.75s forwards; }
+  @keyframes move { to { transform: none; } }
+  .core { transform-box: fill-box; transform-origin: center; transform: scale(0); animation: pop .9s cubic-bezier(.34,1.56,.64,1) .2s forwards; }
+  @keyframes pop { to { transform: scale(1); } }
+  .spin { transform-origin: 60px 60px; transform: rotate(-35deg); animation: tilt 1.5s cubic-bezier(.16,1,.3,1) .45s forwards; }
+  @keyframes tilt { to { transform: rotate(0deg); } }
+  .ring { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.3s cubic-bezier(.65,0,.35,1) .45s forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  .l { opacity: 0; transform: translateX(-140px); animation: in .9s cubic-bezier(.16,1,.3,1) forwards; }
+  @keyframes in { to { opacity: 1; transform: none; } }
+  .dot { opacity: 0; animation: fade .6s ease 3.3s forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) {
+    .move, .core, .spin, .l { animation: none; transform: none; opacity: 1; }
+    .ring { animation: none; stroke-dashoffset: 0; } .dot { display: none; }
+  }
+</style>
+<defs>
+  <mask id="gap-dark" maskUnits="userSpaceOnUse" x="-200" y="-200" width="520" height="520">
+    <rect x="-200" y="-200" width="520" height="520" fill="#fff"/><circle cx="60" cy="60" r="27" fill="#000"/>
+  </mask>
+</defs>
+<rect width="1280" height="320" rx="18" fill="#0D0F12"/>
+<g class="move">
+  <g transform="translate(355.45 160.00) scale(1.3636) translate(-60 -60)">
+    <g mask="url(#gap-dark)">
+      <g class="spin"><ellipse class="ring" cx="60" cy="60" rx="46" ry="14" transform="rotate(-20 60 60)" fill="none" stroke="#F4F4F1" stroke-width="8" pathLength="1"/></g>
+      <circle class="dot" r="4.2" fill="#F4F4F1"><animateMotion dur="7s" begin="3.3s" repeatCount="indefinite" path="M103.23,44.27 L103.48,45.47 L103.40,46.79 L102.99,48.21 L102.26,49.72 L101.20,51.30 L99.83,52.95 L98.15,54.66 L96.19,56.40 L93.95,58.18 L91.45,59.96 L88.72,61.75 L85.76,63.53 L82.61,65.27 L79.28,66.98 L75.81,68.64 L72.22,70.22 L68.54,71.73 L64.79,73.16 L61.00,74.48 L57.21,75.69 L53.44,76.78 L49.72,77.74 L46.07,78.57 L42.53,79.26 L39.13,79.80 L35.88,80.19 L32.82,80.43 L29.96,80.51 L27.34,80.43 L24.96,80.20 L22.85,79.82 L21.02,79.28 L19.49,78.60 L18.26,77.78 L17.36,76.82 L16.77,75.73 L16.52,74.53 L16.60,73.21 L17.01,71.79 L17.74,70.28 L18.80,68.70 L20.17,67.05 L21.85,65.34 L23.81,63.60 L26.05,61.82 L28.55,60.04 L31.28,58.25 L34.24,56.47 L37.39,54.73 L40.72,53.02 L44.19,51.36 L47.78,49.78 L51.46,48.27 L55.21,46.84 L59.00,45.52 L62.79,44.31 L66.56,43.22 L70.28,42.26 L73.93,41.43 L77.47,40.74 L80.87,40.20 L84.12,39.81 L87.18,39.57 L90.04,39.49 L92.66,39.57 L95.04,39.80 L97.15,40.18 L98.98,40.72 L100.51,41.40 L101.74,42.22 L102.64,43.18 L103.23,44.27Z"/></circle>
+    </g>
+    <circle class="core" cx="60" cy="60" r="22" fill="#F4F4F1"/>
+  </g>
+</g>
+<g transform="translate(457.59 190.79) scale(0.08797 -0.08797)" fill="#F4F4F1"><g class="l" style="animation-delay:2.25s"><path transform="translate(0 0)" d="M474 180 554 0H688L345 739L3 0H136L216 180ZM345 502 441 280H250Z"/></g><g class="l" style="animation-delay:2.32s"><path transform="translate(850 0)" d="M8 591H193V0H311V591H496V700H8Z"/></g><g class="l" style="animation-delay:2.39s"><path transform="translate(1514 0)" d="M548 700V430H196V700H78V0H196V321H548V0H666V700Z"/></g><g class="l" style="animation-delay:2.46s"><path transform="translate(2418 0)" d="M163 350Q163 422 194.0 478.5Q225 535 278.5 567.0Q332 599 401 599Q472 599 525.5 567.0Q579 535 609.0 478.5Q639 422 639 350Q639 278 608.5 222.0Q578 166 524.5 133.5Q471 101 401 101Q332 101 278.5 133.5Q225 166 194.0 222.0Q163 278 163 350ZM38 350Q38 272 65.0 205.0Q92 138 141.0 89.0Q190 40 256.5 12.5Q323 -15 401 -15Q481 -15 547.0 12.5Q613 40 662.0 89.0Q711 138 738.0 205.0Q765 272 765 350Q765 429 738.0 495.0Q711 561 661.5 609.5Q612 658 546.0 685.5Q480 713 401 713Q324 713 257.5 685.5Q191 658 141.5 609.5Q92 561 65.0 495.0Q38 429 38 350Z"/></g><g class="l" style="animation-delay:2.53s"><path transform="translate(3381 0)" d="M208 426 421 65 635 426 683 0H805L709 735L421 260L134 735L38 0H160Z"/></g><g class="l" style="animation-delay:2.60s"><path transform="translate(4384 0)" d="M163 350Q163 422 194.0 478.5Q225 535 278.5 567.0Q332 599 401 599Q472 599 525.5 567.0Q579 535 609.0 478.5Q639 422 639 350Q639 278 608.5 222.0Q578 166 524.5 133.5Q471 101 401 101Q332 101 278.5 133.5Q225 166 194.0 222.0Q163 278 163 350ZM38 350Q38 272 65.0 205.0Q92 138 141.0 89.0Q190 40 256.5 12.5Q323 -15 401 -15Q481 -15 547.0 12.5Q613 40 662.0 89.0Q711 138 738.0 205.0Q765 272 765 350Q765 429 738.0 495.0Q711 561 661.5 609.5Q612 658 546.0 685.5Q480 713 401 713Q324 713 257.5 685.5Q191 658 141.5 609.5Q92 561 65.0 495.0Q38 429 38 350Z"/></g><g class="l" style="animation-delay:2.67s"><path transform="translate(5347 0)" d="M589 700V230L78 735V0H194V470L705 -35V700Z"/></g></g>
+</svg>
