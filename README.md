@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/MuriloDPV/fox-studio-vitrine">
-    <img src="assets/fox-studio-protect-yourself.svg" width="560" alt="Animated opening on a black background: the verb “to protect”, one language at a time, in hard cuts that get faster, each word over its own abstract painting in greys (PROTEGER in Portuguese, PROTECT in English, then French, Italian, Catalan, Romanian, Esperanto and, last, the Latin PROTEGERE, the root of them all) and, in one more hard cut, the FOX Studio logo, a fox inside a hexagon, with the name FOX Studio.">
+    <img src="assets/fox-studio-protect-yourself.svg" width="560" alt="Animated opening on a black background: the verb “to protect”, one language at a time, in hard cuts that get faster, each word over its own abstract painting in greys, moving slightly (PROTEGER in Portuguese, PROTECT in English, then French, Italian, Catalan, Romanian, Esperanto and, last, the Latin PROTEGERE, the root of them all) and, in one more hard cut, the FOX Studio logo, a fox inside a hexagon, with the name FOX Studio.">
   </a>
 </p>
 
